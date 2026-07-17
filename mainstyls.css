@@ -1,0 +1,60 @@
+.stylsheet {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: lighter;
+	color: #CCCCCC;
+}
+.orngtxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FF9900;
+	
+}
+.jmpmenu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	color: #CCCCCC;
+	background-color: #57581E;
+	font-weight: bold;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	
+}
+.stylsheet .Estilo23 {
+	font-family: Arial Black, Gadget, sans-serif;
+}
+.stylsheet table tr td p .Estilo8 .Estilo23 .Estilo32 {
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.stylsheet div strong .Estilo23 {
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.stylsheet div .Estilo23 strong {
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.stylsheet table tr td div a {
+	color: #80FF00;
+}
+.stylsheet table tr td div a {
+	color: #0080C0;
+}
+.stylsheet blockquote p {
+	color: #4C87AF;
+}
+.stylsheet blockquote .Estilo6 strong {
+	color: #FFF;
+}
+.stylsheet table tr td div table tr td .Estilo15 strong {
+	font-family: Courier New, Courier, monospace;
+}
+.stylsheet table tr td .Estilo6 .Estilo61 a {
+	color: #FFF;
+}

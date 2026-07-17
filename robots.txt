@@ -1,0 +1,122 @@
+﻿User-agent: *
+Disallow: /www.abogadosconcursodeacreedores.com
+
+User-agent: *
+Disallow: /funcion-de-la-resinade-intercambio-cationico-o-suavizadora.cl/equipos/i
+
+User-agent: *
+Disallow: /productos.html/sistemas-y-equipos-de-bombeo-bombas-e-hidroneumaticos.html
+
+User-agent: *
+Disallow: /productos.html/tanques-de-almacenamiento-cisternas-y-tinacos.html
+
+User-agent: *
+Disallow: /servicios.html/plantas-purificadoras-de-agua-500-garrafones.html
+
+User-agent: *
+Disallow: /productos.html/purificadores-de-agua-caseros-residenciales-o-de-oficina.html
+
+User-agent: *
+Disallow: /servicios.html/index.html
+
+User-agent: *
+Disallow: /servicios.html/plantas-purificadoras-de-agua-1000-garrafones.html
+
+User-agent: *
+Disallow: /servicios.html/servicios.html
+
+User-agent: *
+Disallow: /productos.html/productos.html
+
+User-agent: *
+Disallow: /productos.html/plantas-purificadoras-de-agua-500-garrafones.html
+
+User-agent: *
+Disallow: /servicios.html/faq.html
+
+User-agent: *
+Disallow: /productos.html/tuberia-de-pvc.html
+
+User-agent: *
+Disallow: /servicios.html/productos.html
+
+User-agent: *
+Disallow: /servicios.html/plantas-purificadoras-de-agua-1500-garrafones.html
+
+User-agent: *
+Disallow: /servicios.html/literatura.html
+
+User-agent: *
+Disallow: /servicios.html/osmosis-inversa-residencial-o-casera-purificador-de-agua.html
+
+User-agent: *
+Disallow: /servicios.html/plantas-purificadoras-de-agua-300-garrafones.html
+
+User-agent: *
+Disallow: /servicios.html/osmosis-inversa-comercial-e-industrial.html
+
+User-agent: *
+Disallow: /servicios.html/ofertas.html
+
+User-agent: *
+Disallow: /productos.html/servicios.html
+
+User-agent: *
+Disallow: /planta_purificadora_de_agua_200_garrafones.html
+
+User-agent: *
+Disallow: /planta-purificadora-de-agua-200-garrafones.html
+
+User-agent: *
+Disallow: /plantas-purificadoras-de-agua-300-garrafones.html
+
+User-agent: *
+Disallow: /nom-230-ssa1-2002.pdf
+
+User-agent: *
+Disallow: /nom-181-ssa1-1998.pdf
+
+User-agent: *
+Disallow: /nom-180-ssa1-1998.pdf
+
+User-agent: *
+Disallow: /directorio001.html
+
+User-agent: *
+Disallow: /directorio002.html
+
+User-agent: *
+Disallow: /directorio003.html
+
+User-agent: *
+Disallow: /directorio004.html
+
+User-agent: *
+Disallow: /directorio005.html
+
+User-agent: *
+Disallow: /directorio006.html
+
+User-agent: *
+Disallow: /directorio007.html
+
+User-agent: *
+Disallow: /directorio008.html
+
+User-agent: *
+Disallow: /directorio009.html
+
+User-agent: *
+Disallow: /directorio010.html
+
+User-agent: *
+Disallow: /directorio011.html
+
+User-agent: *
+Disallow: /directorio012.html
+
+User-agent: *
+Disallow: /directorio013.html
+
+User-agent: *
+Disallow: /directorio014.html
